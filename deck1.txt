@@ -1,0 +1,20 @@
+Q: What is the point at which the greatest distance between the center of the earth and an orbitting satellite occurs?
+C: A. Apoapsis
+C: B. Apogee
+C: C. Apohelion
+C: D. Perigee
+A: B. Apogee
+
+Q: What is the powerhouse of the cell?
+C: A. Ribosomes
+C: B. Nucleus
+C: C. Golgi Apparatus
+C: D. Mitochondria
+A: D. Mitochondria
+
+Q: What is the third planet from the sun?
+C: A. Earth
+C: B. Mercury
+C: C. Pluto
+C: D. Venus
+A: A. Earth
